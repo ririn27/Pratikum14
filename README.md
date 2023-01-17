@@ -65,7 +65,9 @@ print(f"Menganti karakter H dengan J = {f}")
 # Latihan 2
 
 umur = 23
+
 txt = "Hello, Nama saya Ririn, dan umur saya adalah {0} tahun"
+
 print(txt.format(umur))
 
 ![3](https://user-images.githubusercontent.com/115934294/212972668-bfb1fbdb-6ca1-4744-a711-e240a3614fb4.png)
@@ -73,4 +75,4 @@ print(txt.format(umur))
 ![4](https://user-images.githubusercontent.com/115934294/212972700-cbfd17a5-95ff-4d13-8421-e84acd066d1a.png)
 
 
-Terimakasih
+# Terimakasih
